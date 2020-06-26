@@ -47,3 +47,8 @@
 
 
 3. 로지스틱 회귀분석
+          
+                
+                    
+      
+> [화연 분석정리](https://github.com/LeeHwayeon/bicycle_analysis/blob/master/%ED%99%94%EC%97%B0/hwayeon.md)
